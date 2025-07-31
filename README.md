@@ -1,4 +1,4 @@
-#Meu Cronômetro
+<h1>Meu Cronômetro</h1>
 
 Página desenvolvida utilizando conceitos de Programação Orientada a Objetos (POO) em JavaScript, utilizando recursos como atributos privados, métodos estáticos, Getters e Setters.
 
